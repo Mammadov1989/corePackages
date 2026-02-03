@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YrSIzzihPiA=",
+  "dgSpecHash": "1Z0u9Hkn6fc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Documents\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\entityframeworkcore.query\\1.3.1.2\\entityframeworkcore.query.1.3.1.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
