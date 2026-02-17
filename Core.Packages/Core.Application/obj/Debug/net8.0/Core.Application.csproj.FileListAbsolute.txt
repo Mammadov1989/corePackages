@@ -29,3 +29,5 @@ C:\Users\user\OneDrive\Documents\corePackages\Core.Packages\Core.Application\obj
 C:\Users\user\OneDrive\Documents\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\refint\Core.Application.dll
 C:\Users\user\OneDrive\Documents\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.pdb
 C:\Users\user\OneDrive\Documents\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\ref\Core.Application.dll
+C:\Users\user\OneDrive\Documents\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+C:\Users\user\OneDrive\Documents\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb
